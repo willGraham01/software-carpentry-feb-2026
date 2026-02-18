@@ -3,10 +3,10 @@
 Everything worked, no need to scrutinise.
 Look, here are some exemplary graphs!
 
-## Section 1
+## Haroon's Results
 
 Some awesome results here
 
-## Will's Failed Experiments
+## Will's Results
 
-Oh dear, what happened.
+Oh dear, they failed
